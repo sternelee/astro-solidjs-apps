@@ -1,0 +1,19 @@
+{
+  "name": "astro-solidjs-apps",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/solid-js": "^3.0.2",
+    "astro": "^3.3.2",
+    "astro-boilerplate-components": "^1.0.15",
+    "lucia": "^2.7.1",
+    "solid-js": "^1.7.11"
+  }
+}
