@@ -13,7 +13,15 @@
     "@astrojs/solid-js": "^3.0.2",
     "astro": "^3.3.2",
     "astro-boilerplate-components": "^1.0.15",
+    "better-sqlite3": "^9.0.0",
     "lucia": "^2.7.1",
-    "solid-js": "^1.7.11"
+    "solid-js": "^1.7.11",
+    "unocss": "^0.56.5"
+  },
+  "devDependencies": {
+    "@lucia-auth/adapter-sqlite": "^2.0.1",
+    "@types/better-sqlite3": "^7.6.6",
+    "unocss-preset-extra": "^0.5.2",
+    "@unocss/reset": "^0.56.5"
   }
 }
