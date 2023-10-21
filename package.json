@@ -19,9 +19,10 @@
     "unocss": "^0.56.5"
   },
   "devDependencies": {
+    "@astrojs/mdx": "^1.1.2",
     "@lucia-auth/adapter-sqlite": "^2.0.1",
     "@types/better-sqlite3": "^7.6.6",
-    "unocss-preset-extra": "^0.5.2",
-    "@unocss/reset": "^0.56.5"
+    "@unocss/reset": "^0.56.5",
+    "unocss-preset-extra": "^0.5.2"
   }
 }
